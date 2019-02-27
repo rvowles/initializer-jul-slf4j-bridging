@@ -10,7 +10,7 @@
 	<artifactId>jul-bridge</artifactId>
 	<packaging>jar</packaging>
 	<name>Bathe Initializer for ensuring java.util.logging gets forwarded to slf4j</name>
-	<version>2.1</version>
+	<version>2.2-SNAPSHOT</version>
 
 	<properties>
 		<maven.version>3.3.9</maven.version>
@@ -111,8 +111,4 @@
 
 		</plugins>
 	</build>
-
-  <scm>
-    <tag>jul-bridge-2.1</tag>
-  </scm>
 </project>
